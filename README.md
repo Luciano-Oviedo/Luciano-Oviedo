@@ -72,7 +72,7 @@ Sitio web responsivo e interactivo que aborda conceptos clave de ciberseguridad,
 
 ---
 
-### 🛒 Aplicación de gestión de productos para e-commerce
+### 🛒 Interfaz de tienda e-commerce
 
 Aplicación frontend que consume una API externa para obtener productos, mostrarlos dinámicamente y permitir su gestión mediante un carrito de compras. Se presenta una interfaz gráfica que lista productos, permite agregarlos al carrito, eliminarlos y visualizar el total de artículos seleccionados. Todo se construye dinámicamente desde JavaScript para reforzar el trabajo con elementos generados en tiempo real.
 
@@ -86,7 +86,7 @@ El objetivo principal fue poner en práctica programación orientada a objetos (
 
 ---
 
-### 🗂️ Aplicación de gestión de usuarios y roles
+### 🗂️ Aplicación de gestión de usuarios y roles con base de datos relacional
 
 Aplicación backend construida con Express y PostgreSQL para administrar usuarios y roles utilizando Sequelize como ORM. Incluye operaciones CRUD completas y asociaciones uno a muchos entre entidades, siguiendo buenas prácticas de estructura, modularización y manejo de conexión a base de datos.
 
