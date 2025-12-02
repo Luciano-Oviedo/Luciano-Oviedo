@@ -110,10 +110,13 @@ El objetivo central fue implementar una API robusta siguiendo la arquitectura RE
 
 # Contacto
 
-<p align="center">
-  <a href="mailto:lucianooviedo4@gmail.com">
+<div align="center">
+  <a href="mailto:lucianooviedo4@gmail.com" style="display:inline-block; margin-right:8px;">
     <img src="https://img.shields.io/badge/Email-lucianooviedo4%40gmail.com-C26D3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luciano-oviedo-oviedo/" style="display:inline-block; margin-left:8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br/>
   <sub>📍 San Pedro de Atacama, Chile</sub>
-</p>
+</div>
