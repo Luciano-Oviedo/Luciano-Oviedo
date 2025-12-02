@@ -4,7 +4,7 @@
 
 # Sobre mí
 
-Soy Luciano Oviedo, desarrollador web fullstack, recientemente egresado del bootcamp _Desarrollo de Aplicaciones Web Full Stack JavaScript Trainee_ (junio–noviembre 2025), cursado gracias a una beca del programa _Talento Digital para Chile_.
+Soy Luciano Oviedo, desarrollador web fullstack, recientemente egresado del bootcamp _Desarrollo de aplicaciones web full stack JavaScript Trainee_ (junio–noviembre 2025), cursado gracias a una beca del programa _Talento Digital para Chile_.
 
 Me crié y vivo en San Pedro de Atacama, en pleno desierto más árido del mundo. Ese entorno me inculcó curiosidad, capacidad de exploración, ingenio para resolver problemas con recursos limitados y adaptabilidad frente a escenarios cambiantes.
 
