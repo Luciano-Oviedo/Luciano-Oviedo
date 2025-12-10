@@ -70,6 +70,8 @@ Tecnologías utilizadas: Node.js · Express · Sequelize · PostgreSQL · Handle
 
 ![Captura del proyecto](./assets/screenshot%20libreria%20online.jpeg)
 
+---
+
 ### 🛡️ Sitio web informativo sobre ciberseguridad
 
 Sitio web responsivo e interactivo que aborda conceptos clave de ciberseguridad, amenazas comunes y consejos para protegerse en línea. Este proyecto integra la triada base del desarrollo web: HTML5, CSS3 y JavaScript (ES6), complementado con frameworks y librerías como Bootstrap y jQuery para mejorar la usabilidad y el diseño.
