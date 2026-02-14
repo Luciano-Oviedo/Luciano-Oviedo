@@ -60,18 +60,6 @@ Postman · NPM
 
 # Proyectos destacados
 
-### 📚 Demo de librería online full stack
-
-Proyecto full stack que integra una arquitectura API REST en el backend con una interfaz dinámica en frontend usando Handlebars y JavaScript. Permite gestionar un catálogo privado de libros con autenticación, carrito de compras y actualización de stock en tiempo real, aplicando buenas prácticas de manejo de sesiones, validación y transacciones en base de datos.
-
-Tecnologías utilizadas: Node.js · Express · Sequelize · PostgreSQL · Handlebars · JavaScript (ES6+) · Bootstrap · JWT · Git · GitHub
-
-[🌐 Demo](https://despliegue-demo-libreria-online.onrender.com/) · [📁 Repositorio](https://github.com/Luciano-Oviedo/demo-libreria-online)
-
-![Captura del proyecto](./assets/screenshot%20libreria%20online.jpeg)
-
----
-
 ### 🛡️ Sitio web informativo sobre ciberseguridad
 
 Sitio web responsivo e interactivo que aborda conceptos clave de ciberseguridad, amenazas comunes y consejos para protegerse en línea. Este proyecto integra la triada base del desarrollo web: HTML5, CSS3 y JavaScript (ES6), complementado con frameworks y librerías como Bootstrap y jQuery para mejorar la usabilidad y el diseño.
