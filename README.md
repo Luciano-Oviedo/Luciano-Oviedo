@@ -60,11 +60,23 @@ Postman · NPM
 
 # Proyectos destacados
 
+### 🕮 Demo de librería online
+
+Proyecto full stack que integra una arquitectura API REST en backend con una interfaz dinámica en frontend usando Node.js, Express, Sequelize y Handlebars. Permite gestionar un catálogo privado de libros con autenticación, carrito de compras y actualización de stock en tiempo real, aplicando buenas prácticas de manejo de sesiones, validación y transacciones en base de datos.
+
+**Tecnologías utilizadas:** Node.js · Express · Sequelize · PostgreSQL · Handlebars · JavaScript (ES6+) · Bootstrap · JWT · bcrypt · Git
+
+[🌐 Demo](https://despliegue-demo-libreria-online.onrender.com/) · [📁 Repositorio](https://github.com/Luciano-Oviedo/demo-libreria-online)
+
+![Captura del proyecto](./assets/screenshot-libreria_online.jpeg)
+
+---
+
 ### 🛡️ Sitio web informativo sobre ciberseguridad
 
 Sitio web responsivo e interactivo que aborda conceptos clave de ciberseguridad, amenazas comunes y consejos para protegerse en línea. Este proyecto integra la triada base del desarrollo web: HTML5, CSS3 y JavaScript (ES6), complementado con frameworks y librerías como Bootstrap y jQuery para mejorar la usabilidad y el diseño.
 
-**Tecnologías utilizadas:** HTML5 · CSS3 · JavaScript · Bootstrap · jQuery · Git · GitHub
+**Tecnologías utilizadas:** HTML5 · CSS3 · JavaScript · Bootstrap · jQuery · Git
 
 [🌐 Demo](https://luciano-oviedo.github.io/Web-informativa-de-ciberseguridad/) · [📁 Repositorio](https://github.com/Luciano-Oviedo/Web-informativa-de-ciberseguridad)
 
@@ -78,7 +90,7 @@ Aplicación frontend que consume una API externa para obtener productos, mostrar
 
 El objetivo principal fue poner en práctica programación orientada a objetos (POO), programación asíncrona, el uso de fetch API, manipulación estructurada del DOM, control de eventos y manejo de errores. También implementé funcionalidades modernas de JavaScript ES6+, como clases, funciones flecha, desestructuración y template literals.
 
-**Tecnologías utilizadas:** HTML5 · CSS3 · JavaScript (ES6+) · fetch API · Git · GitHub
+**Tecnologías utilizadas:** HTML5 · CSS3 · JavaScript (ES6+) · fetch API · Git
 
 [🌐 Demo](https://luciano-oviedo.github.io/Fake-ecommerce/) · [📁 Repositorio](https://github.com/Luciano-Oviedo/Fake-ecommerce)
 
@@ -92,7 +104,7 @@ Aplicación backend construida con Express y PostgreSQL para administrar usuario
 
 El objetivo principal fue reforzar el uso de ORM en entornos Node.js, la definición de modelos, la creación de rutas RESTful y la correcta interacción con PostgreSQL. Además, el proyecto permitió aplicar principios de arquitectura MVC, manejo de errores y organización de código orientado a la mantenibilidad.
 
-**Tecnologías utilizadas:** Node.js · Express · PostgreSQL · Sequelize · Postman · Git · GitHub
+**Tecnologías utilizadas:** Node.js · Express · PostgreSQL · Sequelize · Postman · Git
 
 [📁 Repositorio](https://github.com/Luciano-Oviedo/App-gestion-de-usuarios-y-roles.git)
 
@@ -104,7 +116,7 @@ Backend desarrollado con Node.js y Express para gestionar perfiles de usuario en
 
 El objetivo central fue implementar una API robusta siguiendo la arquitectura RESTful, integrando un sistema de autenticación y autorización seguro basado en tokens, y gestionando la subida de archivos de forma controlada. Además, reforcé conceptos clave como validación de datos, cifrado de contraseñas y protección de rutas sensibles.
 
-**Tecnologías utilizadas:** Node.js · Express · JWT · bcrypt · express-fileupload · Postman · Git · GitHub
+**Tecnologías utilizadas:** Node.js · Express · JWT · bcrypt · express-fileupload · Postman · Git
 
 [📁 Repositorio](https://github.com/Luciano-Oviedo/API-RESTful-gestion-usuarios-RRSS)
 
